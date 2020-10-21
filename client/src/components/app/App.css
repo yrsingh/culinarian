@@ -1,0 +1,17 @@
+.site {
+  min-height: 100vh;
+}
+
+.content {
+  padding: 20px;
+  background-color: white;
+}
+
+.footer {
+  text-align: center;
+  /*background-color: #aaaaaa;*/
+}
+
+.header {
+  background-color: white;
+}
